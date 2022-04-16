@@ -63,3 +63,7 @@ form input[type="text"]:focus{
 form input[type="password"]:focus{
     outline: 0;
 }
+
+p {
+    text-align: center;
+}
